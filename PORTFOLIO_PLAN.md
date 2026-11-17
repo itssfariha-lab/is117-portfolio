@@ -37,7 +37,7 @@ Sources:
   - [VOID Brand Studio](https://github.com/itssfariha-lab/is117-brand-studio)
   - [IS117 Web Server](https://github.com/itssfariha-lab/is117-web-server)
   - [Portfolio repository](https://github.com/itssfariha-lab/is117-portfolio) — planning stage
-- **Résumé:** Readable résumé link — **not yet supplied**.
+- **Résumé:** [Public résumé](RESUME.md) — address-free text version; redacted PDF prepared separately.
 - **Contact:** [GitHub profile](https://github.com/itssfariha-lab) and [LinkedIn](https://www.linkedin.com/in/tasnim-fariha-238b56391/).
 
 ## Visual identity and honest persuasion
@@ -63,7 +63,7 @@ Carry forward the strong typographic hierarchy and intentional contrast practice
 - **Peer feedback received:** None documented yet.
 - **Decision/implementation in response to feedback:** Pending.
 - **Reviewer retry:** Pending.
-- **Open items:** résumé link, deployed documentation/site URLs, actual mobile/link checks, reviewer issue and response.
+- **Open items:** hosted PDF résumé link (optional), deployed documentation/site URLs, actual mobile/link checks, reviewer issue and response.
 
 ## AI assistance
 ChatGPT assisted with structuring the plan, comparing approaches, drafting stories and translating the student's prior Career Exploration into proposed features. The career-role observations were supplied from the student's prior submission; this document does not claim fresh source verification or completed user testing. The student should review and approve the plan and verify links before submission.
